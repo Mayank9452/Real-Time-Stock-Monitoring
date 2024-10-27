@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: white;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.dx-grid-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.dx-grid-header-row {
+    background-color: #1976d2;
+    color: white;
+}
+
+.dx-grid-table td,
+.dx-grid-table th {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.dx-grid-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+.dx-grid-footer-container {
+    background-color: #f9f9f9;
+    padding: 10px;
+}
