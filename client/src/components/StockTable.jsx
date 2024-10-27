@@ -13,7 +13,8 @@ const columns = [
 ];
 
 const StockTable = () => {
-    const stockData = useWebSocket('ws://localhost:8080');
+    // Update WebSocket URL to the deployed backend
+    const stockData = useWebSocket('wss://real-time-stock-monitoring.onrender.com/');
 
     return (
         <div className="container">
