@@ -1,4 +1,5 @@
-# [Live](https://real-time-stock-monitoring-frontend.onrender.com/)
+# Live: 
+[https://real-time-stock-monitoring-frontend.onrender.com/](https://real-time-stock-monitoring-frontend.onrender.com/)
 # Objective:
 Create a real-time stock price monitoring application with a React frontend and a
 Node.js backend using WebSocket for live data communication. The frontend will
