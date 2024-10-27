@@ -46,5 +46,5 @@ NIFTY, Reliance, Infosys, etc.
 * Last Traded Time
 # React DevExpress Integration:
 * Use DevExpress React components to create a high-performance DataGrid that handles dynamic updates from WebSocket data.
-# Link to React DevExpress Documentation: DevExpress
-React Components
+# Link to React DevExpress Documentation: 
+[DevExpress React Components](https://js.devexpress.com/React/Documentation/Guide/React_Components/DevExtreme_React_Components/).
